@@ -19,3 +19,14 @@ Meu portfólio no GitHub foi criado com o objetivo de compartilhar meus projetos
 Meu portfólio no GitHub foi desenvolvido com suporte a dois temas: claro e escuro. Você pode alternar facilmente entre os temas, de acordo com suas preferências. O tema claro possui uma aparência limpa e minimalista, enquanto o tema escuro oferece uma experiência mais elegante e agradável para os olhos.
 
 Sinta-se à vontade para explorar meu portfólio no GitHub e conhecer meus projetos. Se você tiver alguma pergunta ou feedback, não hesite em entrar em contato. Estou ansioso para compartilhar meu trabalho com você! 😊
+### <div align="center">🚀 Skills</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src"https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+</div>
+
+##
