@@ -1,6 +1,6 @@
 # 💻 Project
 
-Live demo: https://eduardofmarinho.github.io/Programmer_Portfolio/
+
 
 In this project, I'm developing a portfolio for starting programmers.
 
@@ -12,7 +12,7 @@ In order to open and edit this project, you need to have a Code Editor. (I used 
 
 If you wish to clone this repository using a terminal, type the following command:
 
-$ git clone https://github.com/EduardoFMarinho/Programmer_Portfolio/
+
 
 # Technologies
 
@@ -29,7 +29,3 @@ This project was developed with the following technologies:
 - People can download your curriculum with a button.  
 
 # Gallery (Both Dark and Light mode)
-
-![Alt text](https://i.imgur.com/aa63owu.png)
-
-![Alt text](https://i.imgur.com/H6xJlhH.png)
