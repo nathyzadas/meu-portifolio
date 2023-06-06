@@ -1,4 +1,4 @@
-**Portfólio no GitHub** 🌟
+# <div align="center"> **Portfólio no GitHub** 🌟</div>
 
 ## Objetivos ✨
 Meu portfólio no GitHub foi criado com o objetivo de compartilhar meus projetos e habilidades de programação, além de destacar minhas realizações profissionais. Quero utilizar esse espaço para mostrar meu conhecimento, compartilhar meu código-fonte e colaborar com a comunidade de desenvolvedores.
